@@ -1,10 +1,10 @@
 {
-        "version":"1.1",
+        "version":"1.1.0",
         "channel":"release",
         "repositories":
         [
                 {
-                        "url":"http://mods.greek2me.us",
+                        "url":"http://lilyachty.github.io/",
                         "format":"JSON"
                 }
         ]
