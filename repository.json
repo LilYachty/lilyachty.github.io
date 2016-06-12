@@ -10,7 +10,8 @@
                                         "name":"release",
                                         "version":"1.1.0",
                                         "restartRequired":"1.2.0",
-                                        "file":"http://lilyachty.github.io/Weapon_DungeonMelee_S1.zip"
+                                        "file":"http://lilyachty.github.io/Weapon_DungeonMelee_S1.zip",
+                                        "changelog":"http://lilyachty.github.io/changelog/Weapon_DungeonMelee_S1.txt"
                                 }
                         ]
                 }
