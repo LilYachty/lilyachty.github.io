@@ -8,15 +8,9 @@
                         [
                                 {
                                         "name":"release",
-                                        "version":"1.1",
-                                        "restartRequired":"1.2",
+                                        "version":"1.1.0",
+                                        "restartRequired":"1.2.0",
                                         "file":"http://lilyachty.github.io/Weapon_DungeonMelee_S1.zip"
-                                },
-                                {
-                                        "name":"beta",
-                                        "version":"4.0-beta-3",
-                                        "restartRequired":"3.8-rc-1",
-                                        "file":"http://mods.greek2me.us/storage/beta/Support_Updater.zip"
                                 }
                         ]
                 }
