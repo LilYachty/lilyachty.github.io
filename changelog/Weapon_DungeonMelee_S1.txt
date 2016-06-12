@@ -1,0 +1,18 @@
+<version:1.1.0>
+        <ul>
+                <li>Added Skeleton Sword & Shield</li>
+                <li>Renamed 'Skeleton Sword' to 'Skeleton Greatsword'</li>
+		<li>Buffed Skeleton Greatsword</li>
+		<li>Fixed armor mountpoint issues</li>
+        </ul>
+</version>
+<version:1.0.0>
+        <ul>
+                <li>Added Skeleton Sword</li>
+		<li>Added Skeleton Axe</li>
+		<li>Added Skeleton Hammer</li>
+		<li>Added Skeleton Helmet</li>
+		<li>Added Skeleton Armor</li>
+		<li>Released</li>
+        </ul>
+</version>
